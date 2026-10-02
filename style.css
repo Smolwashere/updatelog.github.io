@@ -1,0 +1,83 @@
+.contactbutton {
+  border-radius:8px;
+  background: linear-gradient(white 1%, black 99%);
+}
+.contacttext {
+  margin-top:3px;
+  margin-bottom:4px;
+  color:white;
+  text-shadow: 2px 2px black;
+}
+}
+body {
+  min-height:1000vh;
+  background: linear-gradient(white 1%, black 99%);
+}
+.youtubebutton {
+  border-radius:8px;
+  width:150px;
+  background: linear-gradient(red 10%, maroon 90%);
+}
+.youtubetext {
+  color:white;
+  text-shadow: 2px 2px black;
+}
+.SM {
+  border-radius:8px;
+  background: linear-gradient(red 10%, maroon 90%);
+  width:150px;
+}
+.socials {
+  color:white;
+  text-shadow: 2px 2px black;
+}
+.twitchbutton {
+  border-radius:8px;
+  background: linear-gradient(violet 10%, purple 90%);
+  margin-top:5px;
+  width:150px;
+}
+.twitchtext {
+  color:white;
+  text-shadow: 2px 2px black;
+}
+.spotifybutton {
+  border-radius:8px;
+  background: linear-gradient(limegreen 15%, green 85%);
+  margin-top:5px;
+  width:150px;
+}
+.spotifytext {
+  color:white;
+  text-shadow: 2px 2px black;
+}
+.discordbutton {
+  border-radius: 8px;
+  background: linear-gradient(#7289DA 10%, #5865F2 90%);
+  margin-top: 5px;
+  width:150px;
+}
+.discordtext {
+  color:white;
+  text-shadow: 2px 2px black;
+}
+.contactbutton {
+  border-radius:8px;
+  background: linear-gradient(white 1%, black 99%);
+}
+.contacttext {
+  margin-top:3px;
+  margin-bottom:4px;
+  color:white;
+  text-shadow: 2px 2px black;
+}
+.Updatebutton {
+  border-radius:8px;
+  background: linear-gradient(white 1%, black 99%);
+}
+.Updatetext {
+  margin-top:3px;
+  margin-bottom:4px;
+  color:white;
+  text-shadow: 2px 2px black;
+}
