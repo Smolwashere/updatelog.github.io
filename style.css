@@ -11,7 +11,7 @@
 }
 body {
   min-height:1000vh;
-  background: linear-gradient(white 1%, black 99%);
+  background: linear-gradient(white 1%, orange 99%);
 }
 .youtubebutton {
   border-radius:8px;
