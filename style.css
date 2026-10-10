@@ -85,7 +85,8 @@ body {
   text-shadow: 2px 2px black;
 }
 .toptext {
-  text-align: center;
+  margin-left:-1vh;
+  text-align:center;
 }
 .description {
   margin-left: 770px;
