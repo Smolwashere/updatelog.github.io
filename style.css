@@ -65,6 +65,7 @@ body {
   border-radius:8px;
   background: linear-gradient(white 1%, black 99%);
   margin-right:5px;
+  text-align:center;
 }
 .contacttext {
   margin-top:3px;
@@ -75,6 +76,7 @@ body {
 .Updatebutton {
   border-radius:8px;
   background: linear-gradient(white 1%, black 99%);
+  text-align:center;
 }
 .Updatetext {
   margin-top:3px;
@@ -83,7 +85,7 @@ body {
   text-shadow: 2px 2px black;
 }
 .toptext {
-  margin-left: 850px;
+  text-align: center;
 }
 .description {
   margin-left: 770px;
